@@ -1,6 +1,8 @@
 # Real-Time Vehicle Detection and Tracking System Using YOLOv8 and SORT
 This project implements a real-time vehicle detection and tracking system using the YOLOv8 object detection model and the SORT (Simple Online and Realtime Tracking) algorithm. It processes video footage to identify and track vehicles such as cars, trucks, buses, and motorbikes. The system overlays bounding boxes, displays unique IDs for tracked vehicles, and counts the total number of vehicles crossing a specified line. It is optimized for real-time performance and can be applied to traffic monitoring, surveillance, and smart city applications.
 
+
+
 ## Table of contents
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
